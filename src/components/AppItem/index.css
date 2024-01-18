@@ -1,0 +1,24 @@
+.app-item {
+  background-color: #ffffff;
+  min-height: 100px;
+  min-width: 100px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.social-network-image {
+  height: 40px;
+  width: 40px;
+  margin-top: 25px;
+}
+
+.app-name {
+  font-family: 'Bree Serif';
+  font-size: 14px;
+}
